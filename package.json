@@ -1,0 +1,27 @@
+{
+	"name": "num2Word",
+	"version": "1.0.0",
+	"description": "Convert a number to an English word representation",
+	"keywords": ["number", "transform", "convert", "word"],
+	"homepage": "https://github.com/AdamMcCown/node-num2Word",
+	"main": "num2Word.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AdamMcCown/node-num2Word"
+	},
+	"author": "Adam McCown",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AdamMcCown/node-num2Word/issues"
+	},
+	"devDependencies": {
+		"should": "5.2.0",
+		"mocha": "2.2.1"
+	}
+}
