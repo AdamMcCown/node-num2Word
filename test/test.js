@@ -362,6 +362,10 @@ describe("num2Word tests", function () {
 		it(".16E2 should equal sixteen", function () {
 			num2Word(".16E2").should.equal("sixteen");
 		});
+		
+		it("-1.58192e+8 should equal negative one hundred fifty-eight million one hundred ninety-two thousand", function () {
+			num2Word(-1.58192e+8).should.equal("negative one hundred fifty-eight million one hundred ninety-two thousand");
+		});
 	});
 	
 });
