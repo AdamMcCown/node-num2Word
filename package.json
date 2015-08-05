@@ -4,7 +4,7 @@
 	"description": "Convert a number to an English word representation",
 	"keywords": ["number", "transform", "convert", "word"],
 	"homepage": "https://github.com/AdamMcCown/node-num2Word",
-	"main": "num2Word.js",
+	"main": "num2word.js",
 	"directories": {
 		"test": "test"
 	},

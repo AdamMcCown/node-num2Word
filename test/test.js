@@ -1,5 +1,5 @@
 var should = require("should"),
-	num2Word = require("../num2Word");
+	num2Word = require("../num2word");
 
 describe("num2Word tests", function () {
 	
