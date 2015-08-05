@@ -18,7 +18,7 @@ console.log(num2Word(-1.58192e+8));
 //negative one hundred fifty-eight million one hundred ninety-two thousand
 ```
 
-Large numbers, e.g. Number.MAX_SAFE_INTEGER and beyond, need to passed as a string.
+Large numbers, e.g. Number.MAX_SAFE_INTEGER and beyond, need to be passed as a string.
   
 ```  
 console.log(num2Word("9007199254740992"));

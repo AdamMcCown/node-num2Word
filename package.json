@@ -1,10 +1,10 @@
 {
-	"name": "num2Word",
+	"name": "num2word",
 	"version": "1.0.0",
 	"description": "Convert a number to an English word representation",
 	"keywords": ["number", "transform", "convert", "word"],
 	"homepage": "https://github.com/AdamMcCown/node-num2Word",
-	"main": "num2word.js",
+	"main": "num2Word.js",
 	"directories": {
 		"test": "test"
 	},
