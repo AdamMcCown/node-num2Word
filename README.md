@@ -3,6 +3,10 @@ Convert a number to an English word representation
 
 <article>
 
+`
+$ npm install num2word
+`
+
 <h1>Examples</h1>
   
 ```
