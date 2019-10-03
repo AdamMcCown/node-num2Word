@@ -10,7 +10,7 @@ $ npm install num2word
 <h1>Examples</h1>
   
 ```
-var num2Word = require('num2Word');
+var num2Word = require('num2word');
     
 console.log(num2Word(12.45));
 //twelve point four five
